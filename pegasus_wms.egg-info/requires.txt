@@ -1,6 +1,6 @@
 Flask-Cache==0.13.1
 Flask-SQLAlchemy==0.16
-Flask==0.12.4
+Flask==1.0
 Jinja2==2.8.1
 MarkupSafe==1.0
 SQLAlchemy==0.8.0

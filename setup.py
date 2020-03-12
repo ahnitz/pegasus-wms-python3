@@ -8,7 +8,7 @@ home_dir = os.path.abspath(os.path.join(src_dir, "../../.."))
 
 install_requires = [
     "Werkzeug==0.14.1",
-    "Flask==0.12.4",
+    "Flask==1.0",
     "Jinja2==2.8.1",
     "Flask-SQLAlchemy==0.16",
     "Flask-Cache==0.13.1",
