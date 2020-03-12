@@ -4,7 +4,7 @@ Flask==0.12.4
 Jinja2==2.8.1
 MarkupSafe==1.0
 SQLAlchemy==0.8.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 boto==2.48.0
 itsdangerous==0.24
 pam==0.1.4
