@@ -13,7 +13,7 @@ install_requires = [
     "Flask-SQLAlchemy==0.16",
     "Flask-Cache==0.13.1",
     "requests==2.18.4",
-    "MarkupSafe==1.0",
+    "MarkupSafe>1.0",
     "itsdangerous==0.24",
     "boto==2.48.0",
     "pam==0.1.4",
